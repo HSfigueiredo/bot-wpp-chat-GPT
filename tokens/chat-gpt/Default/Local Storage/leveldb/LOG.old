@@ -1,0 +1,18 @@
+2023/01/22-08:56:37.448 690 Reusing MANIFEST C:\Users\hyan_\Desktop\BotWppGPT\tokens\Chat-GPT\Default\Local Storage\leveldb/MANIFEST-000001
+2023/01/22-08:56:37.449 690 Recovering log #26
+2023/01/22-08:56:37.451 690 Reusing old log C:\Users\hyan_\Desktop\BotWppGPT\tokens\Chat-GPT\Default\Local Storage\leveldb/000026.log 
+2023/01/22-13:27:15.090 25d4 Level-0 table #30: started
+2023/01/22-13:27:15.095 25d4 Level-0 table #30: 11054 bytes OK
+2023/01/22-13:27:15.098 25d4 Delete type=0 #26
+2023/01/22-21:57:01.658 1ce0 Level-0 table #32: started
+2023/01/22-21:57:01.663 1ce0 Level-0 table #32: 12779 bytes OK
+2023/01/22-21:57:01.666 1ce0 Delete type=0 #29
+2023/01/22-21:57:01.673 1ce0 Compacting 4@0 + 1@1 files
+2023/01/22-21:57:01.682 1ce0 Generated table #33@0: 12 keys, 3555 bytes
+2023/01/22-21:57:01.683 1ce0 Compacted 4@0 + 1@1 files => 3555 bytes
+2023/01/22-21:57:01.683 1ce0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/22-21:57:01.684 1ce0 Delete type=2 #21
+2023/01/22-21:57:01.684 1ce0 Delete type=2 #24
+2023/01/22-21:57:01.684 1ce0 Delete type=2 #27
+2023/01/22-21:57:01.684 1ce0 Delete type=2 #30
+2023/01/22-21:57:01.684 1ce0 Delete type=2 #32

@@ -1,0 +1,28 @@
+2023/01/23-09:26:43.844 226c Reusing MANIFEST C:\Users\hyan_\Desktop\BotWppGPT\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/23-09:26:43.844 226c Recovering log #467
+2023/01/23-09:26:43.903 226c Reusing old log C:\Users\hyan_\Desktop\BotWppGPT\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000467.log 
+2023/01/23-10:24:29.210 26b4 Level-0 table #480: started
+2023/01/23-10:24:29.280 26b4 Level-0 table #480: 1427951 bytes OK
+2023/01/23-10:24:29.284 26b4 Delete type=0 #467
+2023/01/23-10:27:14.037 34e4 Compacting 1@1 + 9@2 files
+2023/01/23-10:27:14.146 34e4 Generated table #481@1: 27863 keys, 2259561 bytes
+2023/01/23-10:27:14.239 34e4 Generated table #482@1: 21528 keys, 2269043 bytes
+2023/01/23-10:27:14.336 34e4 Generated table #483@1: 21481 keys, 2277505 bytes
+2023/01/23-10:27:14.453 34e4 Generated table #484@1: 21517 keys, 2257673 bytes
+2023/01/23-10:27:14.551 34e4 Generated table #485@1: 77453 keys, 2252401 bytes
+2023/01/23-10:27:14.639 34e4 Generated table #486@1: 26479 keys, 2481483 bytes
+2023/01/23-10:27:14.727 34e4 Generated table #487@1: 21844 keys, 2218200 bytes
+2023/01/23-10:27:14.839 34e4 Generated table #488@1: 80067 keys, 2224585 bytes
+2023/01/23-10:27:14.883 34e4 Generated table #489@1: 24215 keys, 572853 bytes
+2023/01/23-10:27:14.883 34e4 Compacted 1@1 + 9@2 files => 18813304 bytes
+2023/01/23-10:27:14.884 34e4 compacted to: files[ 0 0 9 0 0 0 0 ]
+2023/01/23-10:27:14.885 34e4 Delete type=2 #469
+2023/01/23-10:27:14.885 34e4 Delete type=2 #470
+2023/01/23-10:27:14.885 34e4 Delete type=2 #471
+2023/01/23-10:27:14.885 34e4 Delete type=2 #472
+2023/01/23-10:27:14.886 34e4 Delete type=2 #473
+2023/01/23-10:27:14.887 34e4 Delete type=2 #474
+2023/01/23-10:27:14.887 34e4 Delete type=2 #475
+2023/01/23-10:27:14.887 34e4 Delete type=2 #476
+2023/01/23-10:27:14.887 34e4 Delete type=2 #477
+2023/01/23-10:27:14.887 34e4 Delete type=2 #480
